@@ -1,0 +1,18 @@
+# Node (React frontend)
+Frontend/node_modules/
+Frontend/.env
+
+# Spring Boot (Java backend)
+Backend/target/
+Backend/.classpath
+Backend/.project
+Backend/.settings/
+Backend/.idea/
+Backend/.mvn/
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
